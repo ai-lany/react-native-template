@@ -1,4 +1,4 @@
-# Trainr
+# React Native App
 
 ## Commands
 - To start the app locally on the web:
