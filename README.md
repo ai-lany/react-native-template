@@ -1,6 +1,7 @@
 # React Native App
 
-## Commands
+## CommandS
+- Before getting started, cd into the client folder and run `npm install`.
 - To start the app locally on the web:
 ```
 cd client
@@ -10,7 +11,6 @@ npx expo start --web
 ```
 cd client
 npx expo
-c
 ```
 
 ## Dependencies
